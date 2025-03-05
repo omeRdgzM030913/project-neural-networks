@@ -30,7 +30,11 @@ A step-by-step guide on how to adjust hyperparameters to optimize training is pr
 My Qualities in Data Science
 
 Dataset Management: Downloading and preprocessing (transformations, stratified divisions, data augmentation).
+
 Deep Learning Model Design: Configuration of convolutional layers, regularization (dropout, batch normalization), loss functions and optimizers.
+
 Experimentation and Fine-Tuning: Adjustment of hyperparameters (learning rate, epochs, batch size), scheduler for LR decay.
+
 Visualization and Analysis of Results: Confusion Matrix, Classification Report, graphs of loss and accuracy evolution.
+
 Best Practices in PyTorch: Use of DataLoader, separation of training/validation/testing, device control (CPU/GPU/MPS) and code modularization.
