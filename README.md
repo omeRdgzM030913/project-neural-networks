@@ -27,7 +27,7 @@ Both models offer competitive results in FashionMNIST, with CNN_2 being more sop
 The use of data augmentation and batch normalization shows notable improvements in generalization capacity.
 A step-by-step guide on how to adjust hyperparameters to optimize training is provided.
 
-My Qualities in Data Science
+During this project I showed my skills with: 
 
 Dataset Management: Downloading and preprocessing (transformations, stratified divisions, data augmentation).
 
